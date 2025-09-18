@@ -25,8 +25,4 @@
     <dimen name="form_field_width">200dp</dimen>
     <dimen name="form_button_width">120dp</dimen>
     <dimen name="form_button_height">48dp</dimen>
-
-    <!-- Task 4 overlay (optional) -->
-    <dimen name="overlay_width">240dp</dimen>
-    <dimen name="overlay_height">140dp</dimen>
 </resources>

@@ -6,8 +6,4 @@
 
     <!-- Task 3 input constraint -->
     <integer name="username_max_length">32</integer>
-
-    <!-- Task 4 (optional) -->
-    <integer name="overlay_layer_count">2</integer>       <!-- background + foreground -->
-    <integer name="styled_button_min_count">2</integer>   <!-- style at least this many buttons -->
 </resources>
