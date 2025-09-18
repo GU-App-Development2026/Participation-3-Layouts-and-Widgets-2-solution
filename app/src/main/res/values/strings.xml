@@ -1,13 +1,25 @@
 <resources>
-    <string name="app_name">layouts and widgets activity 1</string>
+    <string name="app_name">Layouts and Widgets Activity 1</string>
+    <!-- Task 1 -->
     <string name="app_title">Welcome to the App</string>
     <string name="instruction_line">Please choose an option below</string>
     <string name="btn_login">Login</string>
     <string name="btn_cancel">Cancel</string>
+
+    <!-- Task 2 -->
     <string name="section_title">Keypad Section</string>
     <string name="btn_one">One</string>
     <string name="btn_two">Two</string>
     <string name="btn_three">Three</string>
     <string name="btn_four">Four</string>
 
+    <!-- Task 3 -->
+    <string name="enter_username">Enter Username:</string>
+    <string name="hint_username">Type here…</string>
+    <string name="btn_submit">Submit</string>
+    <string name="result_placeholder"></string>
+    <string name="greeting_format">Hello, %1$s!</string>
+
+    <!-- Task 4 (optional) -->
+    <string name="overlay_label">Overlay</string>
 </resources>
