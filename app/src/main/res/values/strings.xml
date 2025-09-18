@@ -2,6 +2,12 @@
     <string name="app_name">layouts and widgets activity 1</string>
     <string name="app_title">Welcome to the App</string>
     <string name="instruction_line">Please choose an option below</string>
-    <string name="login_btn">Login</string>
-    <string name="cancel_btn">Cancel</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="section_title">Keypad Section</string>
+    <string name="btn_one">One</string>
+    <string name="btn_two">Two</string>
+    <string name="btn_three">Three</string>
+    <string name="btn_four">Four</string>
+
 </resources>
