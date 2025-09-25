@@ -59,6 +59,7 @@
     >
 
     <Button
+        android:id="@+id/btn_one"
         android:width="@dimen/grid_button_width"
         android:height="@dimen/grid_button_height"
         android:text="@string/btn_one"
@@ -68,6 +69,7 @@
         />
 
     <Button
+        android:id="@+id/btn_two"
         android:width="@dimen/grid_button_width"
         android:height="@dimen/grid_button_height"
         android:text="@string/btn_two"
@@ -77,6 +79,7 @@
         />
 
     <Button
+        android:id="@+id/btn_three"
         android:width="@dimen/grid_button_width"
         android:height="@dimen/grid_button_height"
         android:text="@string/btn_three"
@@ -86,6 +89,7 @@
         />
 
     <Button
+        android:id="@+id/btn_four"
         android:width="@dimen/grid_button_width"
         android:height="@dimen/grid_button_height"
         android:text="@string/btn_four"
